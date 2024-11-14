@@ -1,0 +1,137 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "description": "Develop and maintain web applications using modern frameworks.",
+      "salary": 85000,
+      "location": "San Francisco, CA",
+      "company": {
+        "email": "hr@techcorp.com",
+        "name": "TechCorp",
+        "phone": "123-456-7890"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Data Scientist",
+      "description": "Analyze data trends and build predictive models for customer behavior.",
+      "salary": 95000,
+      "location": "New York, NY",
+      "company": {
+        "email": "careers@datasolutions.com",
+        "name": "Data Solutions",
+        "phone": "234-567-8901"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Product Manager",
+      "description": "Lead the product development process and oversee cross-functional teams.",
+      "salary": 100000,
+      "location": "Remote",
+      "company": {
+        "email": "pm@innovate.io",
+        "name": "Innovate",
+        "phone": "345-678-9012"
+      }
+    },
+    {
+      "id": "4",
+      "title": "UX Designer",
+      "description": "Design intuitive user interfaces and improve user experience for web applications.",
+      "salary": 78000,
+      "location": "Seattle, WA",
+      "company": {
+        "email": "design@creativelabs.com",
+        "name": "Creative Labs",
+        "phone": "456-789-0123"
+      }
+    },
+    {
+      "id": "5",
+      "title": "DevOps Engineer",
+      "description": "Automate and improve CI/CD pipelines and manage cloud infrastructure.",
+      "salary": 92000,
+      "location": "Austin, TX",
+      "company": {
+        "email": "jobs@cloudsync.com",
+        "name": "CloudSync",
+        "phone": "567-890-1234"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Sales Manager",
+      "description": "Lead the sales team and strategize to increase market share and revenue.",
+      "salary": 75000,
+      "location": "Chicago, IL",
+      "company": {
+        "email": "sales@marketpros.com",
+        "name": "MarketPros",
+        "phone": "678-901-2345"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Business Analyst",
+      "description": "Analyze business processes and provide data-driven insights.",
+      "salary": 70000,
+      "location": "Boston, MA",
+      "company": {
+        "email": "apply@bizlogic.com",
+        "name": "BizLogic",
+        "phone": "789-012-3456"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Frontend Developer",
+      "description": "Create and optimize user interfaces for web applications.",
+      "salary": 85000,
+      "location": "Denver, CO",
+      "company": {
+        "email": "frontend@devstudio.com",
+        "name": "DevStudio",
+        "phone": "890-123-4567"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Marketing Specialist",
+      "description": "Develop marketing strategies and manage digital campaigns.",
+      "salary": 65000,
+      "location": "Los Angeles, CA",
+      "company": {
+        "email": "hr@brightmedia.com",
+        "name": "BrightMedia",
+        "phone": "901-234-5678"
+      }
+    },
+    {
+      "id": "10",
+      "title": "IT Support Technician",
+      "description": "Provide technical support and troubleshoot hardware/software issues.",
+      "salary": 60000,
+      "location": "Miami, FL",
+      "company": {
+        "email": "support@infotech.com",
+        "name": "InfoTech",
+        "phone": "012-345-6789"
+      }
+    },
+    {
+      "id": "a3c6",
+      "type": "Remote",
+      "title": "Ut eligend.",
+      "description": "Ipsum iusto est non voluptatem consequat Esse eum aut in sapiente",
+      "location": "Veni.",
+      "salary": "270-300k/year",
+      "company": {
+        "name": "Swanson Freeman Trading",
+        "email": "rilyvoridi@hotmail.com",
+        "phone": "+ (125) 379-8413"
+      }
+    }
+  ]
+}
